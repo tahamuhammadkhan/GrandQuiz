@@ -1,6 +1,3 @@
-yaml
-Copy
-Edit
 name: Deploy React App to GitHub
 
 on:
